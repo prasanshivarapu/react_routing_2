@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.cen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.notfound {
+  height: 200px;
+}
